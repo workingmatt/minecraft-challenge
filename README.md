@@ -11,4 +11,5 @@ Type in Python code.
 Run code and see effects in Minecraft window
 
 ## Author
-
+Github username: 5ubatomic
+Email: dougkr09@gmail.com
