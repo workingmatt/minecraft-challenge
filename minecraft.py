@@ -101,7 +101,9 @@ def build_wall(basex,basey,basez,w_type,dirn):
             mc.setBlock(basex,basey+1,basez+4,20)
             mc.setBlock(basex,basey+2,basez+5,20)
             mc.setBlock(basex,basey+1,basez+5,20)
-        
+
+
+# Start code, initialising functions above
 start()
 
 
