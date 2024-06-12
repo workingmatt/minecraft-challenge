@@ -9,3 +9,6 @@ Alt-Tab to release the mouse
 Open Thonny Python IDE
 Type in Python code.
 Run code and see effects in Minecraft window
+
+## Author
+
